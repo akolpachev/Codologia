@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>10b0d2f9-d34c-4843-b2d7-a9ec35aeebf6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Task4.py</StartupFile>
+    <StartupFile>Task6.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Averages.py" />
+    <Compile Include="Task5.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="task3.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Task4.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Task6.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
