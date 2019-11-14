@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>10b0d2f9-d34c-4843-b2d7-a9ec35aeebf6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Task6.py</StartupFile>
+    <StartupFile>task8.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -32,6 +32,12 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Task6.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="task7.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="task8.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
