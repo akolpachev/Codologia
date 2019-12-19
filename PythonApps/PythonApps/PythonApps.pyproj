@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>10b0d2f9-d34c-4843-b2d7-a9ec35aeebf6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>task 9.py</StartupFile>
+    <StartupFile>TASK 10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Averages.py" />
+    <Compile Include="TASK 10.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="task 9.py">
       <SubType>Code</SubType>
     </Compile>
