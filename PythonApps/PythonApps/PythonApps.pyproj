@@ -22,6 +22,9 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Averages.py" />
+    <Compile Include="Task11.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="TASK 10.py">
       <SubType>Code</SubType>
     </Compile>
