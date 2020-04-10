@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>10b0d2f9-d34c-4843-b2d7-a9ec35aeebf6</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>TASK 10.py</StartupFile>
+    <StartupFile>Task 12.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,31 +22,34 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Averages.py" />
-    <Compile Include="Task11.py">
+    <Compile Include="Task 11.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="TASK 10.py">
+    <Compile Include="Task 10.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="task 9.py">
+    <Compile Include="task 09.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Task5.py">
+    <Compile Include="Task 05.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="task3.py">
+    <Compile Include="task 03.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Task4.py">
+    <Compile Include="Task 04.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="Task6.py">
+    <Compile Include="Task 06.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="task7.py">
+    <Compile Include="task 07.py">
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="task8.py">
+    <Compile Include="task 08.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Task 12.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
